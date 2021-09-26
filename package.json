@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A lightweight GraphQL Client, built for the truly bundle-phobic",
   "main": "src/client.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
